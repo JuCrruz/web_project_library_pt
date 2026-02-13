@@ -72,11 +72,18 @@
   margin-top: auto;
   display: flex;
   justify-content: flex-end;
+  background-color: #f5f5f5;
+  padding: 20px;
 }
 
 .header__address {
   margin: 0;
   color: #838383;
+}
+
+.header__link {
+  text-decoration: none;
+  color: #000;
 }
 
 .staff {
